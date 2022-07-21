@@ -60,7 +60,7 @@ This option is the **recommended** installation method.
 
 3. Run the following command to verify OpenFunction is ready.
    ```shell
-   kubectl get pods -namespace openfunction
+   kubectl get pods --namespace openfunction
    ```
 
 ### Option 2: CLI
